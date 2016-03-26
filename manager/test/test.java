@@ -19,7 +19,7 @@ public class test {
     @Test
     public void testObserver(){
         List<Observer> list = new ArrayList<Observer>();
-        for (int i = 0 ; i < 100000; i++){
+        for (int i = 0 ; i < 100; i++){
             Lisi lisi = new Lisi();
             list.add(lisi);
         }
