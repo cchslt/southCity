@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/manager/manager.iml" filepath="$PROJECT_DIR$/manager/manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySpringVirgin/mySpringVirgin.iml" filepath="$PROJECT_DIR$/mySpringVirgin/mySpringVirgin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/southCity.iml" filepath="$PROJECT_DIR$/.idea/southCity.iml" />
     </modules>
   </component>
