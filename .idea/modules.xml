@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/manager/manager.iml" filepath="$PROJECT_DIR$/manager/manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/mySpringVirgin/mySpringVirgin.iml" filepath="$PROJECT_DIR$/mySpringVirgin/mySpringVirgin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/southCity.iml" filepath="$PROJECT_DIR$/.idea/southCity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBootTest/springBootTest.iml" filepath="$PROJECT_DIR$/springBootTest/springBootTest.iml" />
     </modules>
   </component>
 </project>

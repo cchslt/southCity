@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/manager/pom.xml" />
         <option value="$PROJECT_DIR$/mySpringVirgin/pom.xml" />
+        <option value="$PROJECT_DIR$/springBootTest/pom.xml" />
       </list>
     </option>
   </component>

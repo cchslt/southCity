@@ -24,11 +24,13 @@
         <processorPath useClasspath="true" />
         <module name="manager" />
         <module name="mySpringVirgin" />
+        <module name="springBootTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="manager" target="1.5" />
       <module name="mySpringVirgin" target="1.5" />
+      <module name="springBootTest" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
